@@ -2,6 +2,9 @@
 All rights to the project are held by WeRplay and its partners.
 
 Website: https://wardragons.com/
+
+Read Article: https://www.linkedin.com/pulse/earn-big-sqa-open-source-game-testing-wajahat-masood-plmrf/?trackingId=xl1edbQWlzw2zoycBKhuzQ%3D%3D
+
 ---------------------------------------------------
 **Game Software Quality Assurance Specialist | weRplay**
 
